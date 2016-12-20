@@ -1,4 +1,4 @@
-package com.brainmatics.aplikasi.pendaftaran.entity;
+package com.brainmatics.pendaftaran.entity;
 
 import java.util.ArrayList;
 import java.util.List;

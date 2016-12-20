@@ -1,4 +1,4 @@
-package com.brainmatics.aplikasi.pendaftaran.entity;
+package com.brainmatics.pendaftaran.entity;
 
 import java.math.BigDecimal;
 import java.util.Date;
